@@ -10,10 +10,10 @@ My experience includes performing Integration testing, System testing, Interface
 
 | Category | Tools |
 | :--- | :--- |
-| **QA** | Manual Testing, Functional Testing, Compliance & Compatibility Testing, Smoke Checks, Basics of automation testing |
+| **QA** | Manual Testing, Functional Testing, Compliance & Compatibility Testing, Smoke Checks, Postman, Playwright |
 | **API & Database** | Postman, SQL |
 | **Project management** | Jira, Confluence |
-| **Technical** | Python (Basic Scripting), USD Workflow (Houdini Solaris, NVIDIA Omniverse) |
+| **Technical** | Python , USD Workflow (Houdini Solaris, NVIDIA Omniverse) |
 | **Platforms** | Multi-platform compliance (Xbox, PlayStation, Nintendo Switch) |
 
 
