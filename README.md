@@ -23,8 +23,9 @@ My experience includes performing Integration testing, System testing, Interface
 
 
 * **[Test Cases](https://docs.google.com/spreadsheets/d/1YAr6B_djq5TzMnE33OFdi2jCxYZRao_7/edit?usp=sharing&ouid=115520430965034733216&rtpof=true&sd=true)** - Manual testing, test case examples.
-*  **[API Testing](https://github.com/jacekzbikowski121-debug/SoftwareTesting/tree/main/api-portfolio)** - E2E Banking test suite
-*  **[API Testing](https://github.com/JacekZbi/parabank-selenium-automation)** - web-automation-selenium-python
+*  **[API Testing Postman](https://github.com/jacekzbikowski121-debug/SoftwareTesting/tree/main/api-portfolio)** - E2E Banking test suite
+*  **[Playwright Web Automation testing](https://github.com/JacekZbi/parabank-playwright-automation)** - web-automation-playwright-python
+*  **[Selenium Web Automation Testing](https://github.com/JacekZbi/parabank-selenium-automation)** - web-automation-selenium-python
 
 
 ---
